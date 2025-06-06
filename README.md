@@ -122,6 +122,10 @@
 
    Developing an AI chatbot with NLP in Python is a multifaceted project that combines various aspects of artificial intelligence, machine learning, and software development. It offers immense potential to          revolutionize user interactions across industries, making services more accessible, efficient, and personalized.
 
+   #Output
+
+   ![Image](https://github.com/user-attachments/assets/1021f371-f3c1-4d46-ba67-ae2985886d9c)
+
 
 
 
