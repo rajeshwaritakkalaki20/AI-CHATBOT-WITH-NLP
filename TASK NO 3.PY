@@ -10,7 +10,7 @@ pairs = [
     ], 
     [
         r"what is your name ?",
-        ["I am a bot created by Analytics Rajeshwari. you can call me crazy!",]
+        ["I am a bot created by Analytics Vidya. you can call me crazy!",]
     ],
     [
         r"how are you ?",
@@ -38,11 +38,11 @@ pairs = [
     ],
     [
         r"(.*) created ?",
-        ["Rajeshwari created me using Python's NLTK library ","top secret ;)",]
+        ["Vidya created me using Python's NLTK library ","top secret ;)",]
     ],
     [
         r"(.*) (location|city) ?",
-        ['India, Maharashtra',]
+        ['Indor, Madhya Pradesh',]
     ],
     [
         r"how is weather in (.*)?",
